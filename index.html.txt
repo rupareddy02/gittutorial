@@ -1,0 +1,2 @@
+Hello Welcome to Git Tutorial by making File to repo
+by git add . it will push local repo files to stagging area
